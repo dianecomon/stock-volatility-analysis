@@ -1,2 +1,2 @@
 # stock-volatility-analysis
-Use regression and visualisation to explore market trends
+Using regression and visualisation to explore market trends
